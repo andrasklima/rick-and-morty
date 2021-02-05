@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a33e169.chunk.css",
-    "main.js": "/static/js/main.63b4d788.chunk.js",
-    "main.js.map": "/static/js/main.63b4d788.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8309bc30.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8309bc30.js.map",
-    "static/js/2.3acb5387.chunk.js": "/static/js/2.3acb5387.chunk.js",
-    "static/js/2.3acb5387.chunk.js.map": "/static/js/2.3acb5387.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.4a33e169.chunk.css.map": "/static/css/main.4a33e169.chunk.css.map",
-    "static/js/2.3acb5387.chunk.js.LICENSE.txt": "/static/js/2.3acb5387.chunk.js.LICENSE.txt",
-    "static/media/Rick-and-Morty-Art-Book-The-Art-of-Rick-and-Morty-English-Version.dd03010b.webp": "/static/media/Rick-and-Morty-Art-Book-The-Art-of-Rick-and-Morty-English-Version.dd03010b.webp",
-    "static/media/App.css": "/static/media/get_schwifty.c3d1dfc6.ttf"
+    "main.css": "/rick-and-morty/static/css/main.a550104b.chunk.css",
+    "main.js": "/rick-and-morty/static/js/main.be7d3f0e.chunk.js",
+    "main.js.map": "/rick-and-morty/static/js/main.be7d3f0e.chunk.js.map",
+    "runtime-main.js": "/rick-and-morty/static/js/runtime-main.17d3949a.js",
+    "runtime-main.js.map": "/rick-and-morty/static/js/runtime-main.17d3949a.js.map",
+    "static/js/2.277e2298.chunk.js": "/rick-and-morty/static/js/2.277e2298.chunk.js",
+    "static/js/2.277e2298.chunk.js.map": "/rick-and-morty/static/js/2.277e2298.chunk.js.map",
+    "index.html": "/rick-and-morty/index.html",
+    "static/css/main.a550104b.chunk.css.map": "/rick-and-morty/static/css/main.a550104b.chunk.css.map",
+    "static/js/2.277e2298.chunk.js.LICENSE.txt": "/rick-and-morty/static/js/2.277e2298.chunk.js.LICENSE.txt",
+    "static/media/Rick-and-Morty-Art-Book-The-Art-of-Rick-and-Morty-English-Version.dd03010b.webp": "/rick-and-morty/static/media/Rick-and-Morty-Art-Book-The-Art-of-Rick-and-Morty-English-Version.dd03010b.webp",
+    "static/media/App.css": "/rick-and-morty/static/media/get_schwifty.c3d1dfc6.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.8309bc30.js",
-    "static/js/2.3acb5387.chunk.js",
-    "static/css/main.4a33e169.chunk.css",
-    "static/js/main.63b4d788.chunk.js"
+    "static/js/runtime-main.17d3949a.js",
+    "static/js/2.277e2298.chunk.js",
+    "static/css/main.a550104b.chunk.css",
+    "static/js/main.be7d3f0e.chunk.js"
   ]
 }
